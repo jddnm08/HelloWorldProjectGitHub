@@ -1,3 +1,3 @@
 # Hello, world!
 
-This is a test github for class
+This is a test github for my class
